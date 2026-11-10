@@ -1,0 +1,2 @@
+*.java linguist-detectable
+*.py linguist-undetectable

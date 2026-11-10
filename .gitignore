@@ -1,0 +1,14 @@
+out/
+bin/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+target/
+Thumbs.db
+Desktop.ini
+.DS_Store
+Generator.java
+Generator.class
